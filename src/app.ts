@@ -1,1 +1,1 @@
-console.log("Express + TS!");
+console.log("Express + TS");
